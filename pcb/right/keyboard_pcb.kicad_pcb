@@ -7492,7 +7492,7 @@
 			(uuid "888c6fdf-c198-440a-97af-035b863dc875")
 		)
 		(pad "" np_thru_hole circle
-			(at 5.000001 -3.75 355)
+			(at 5.000002 -3.75 355)
 			(size 3 3)
 			(drill 3)
 			(layers "*.Cu" "*.Mask")
@@ -16716,7 +16716,7 @@
 			(uuid "0d33a0a3-6701-41b8-8040-7340c4d8cd33")
 		)
 		(fp_line
-			(start -2 -4.749999)
+			(start -2 -4.749998)
 			(end -4.5 -4.75)
 			(stroke
 				(width 0.12)
